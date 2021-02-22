@@ -1,0 +1,7 @@
+* text=auto
+*.cfg eol=lf
+*.md eol=lf
+*.svd eol=lf
+*.tcl eol=lf
+*.txt eol=lf
+*.xml eol=lf
